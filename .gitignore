@@ -50,3 +50,20 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# CodeBlocks
+*.cbp
+*.layout
+*.depend
+obj/
+bin/
+
+# Glade
+*.glade~
+
+# Zips
+*.zip
+versions/
+
+# Binary data files
+*.bn
